@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/PolarPointSeries/MainPage.xaml) (VB: [MainPage.xaml](./VB/PolarPointSeries/MainPage.xaml))
+<!-- default file list end -->
 # How to create a 2D Polar Point chart
 
 
